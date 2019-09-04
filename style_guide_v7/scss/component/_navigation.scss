@@ -24,3 +24,7 @@
   color: #fff;
   background-color: #58e1c1;
 }
+
+.col-3 {
+  @include center;
+}
